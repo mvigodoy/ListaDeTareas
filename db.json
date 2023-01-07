@@ -1,28 +1,22 @@
 {
-    "tasks":[
+  "tasks": [
     {
-        "id": 1,
-        "text": "Terminar modulo de Angular",
-        "day": "5 de diciembre a las 12",
-        "reminder": true
+      "id": 1,
+      "text": "Terminar modulo de Angular",
+      "day": "5 de diciembre a las 12",
+      "reminder": true
     },
     {
-        "id": 2,
-        "text": "Hacer las compras",
-        "day": "5 de diciembre a las 12",
-        "reminder": true
+      "id": 2,
+      "text": "Hacer las compras",
+      "day": "5 de diciembre a las 12",
+      "reminder": true
     },
     {
-        "id": 3,
-        "text": "Ir al correo",
-        "day": "5 de diciembre a las 12",
-        "reminder": true
-    },
-    {
-        "id": 4,
-        "text": "Cocinar",
-        "day": "5 de diciembre a las 12",
-        "reminder": true
+      "id": 3,
+      "text": "Ir al correo",
+      "day": "5 de diciembre a las 12",
+      "reminder": true
     }
-]
+  ]
 }
